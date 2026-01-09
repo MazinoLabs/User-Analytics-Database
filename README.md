@@ -162,14 +162,6 @@ SELECT DISTINCT country FROM users;
 
 ---
 
-## Screenshots / Proof
-
-Include images of:
-
-* `\d users` table schema
-* Sample query results (like total users, users per country)
-
----
 
 ## How to Run This Project
 
@@ -182,13 +174,3 @@ Include images of:
 
 ---
 
-## Next Steps / Extensions
-
-* Add additional tables (e.g., transactions, orders) and **relationships** (foreign keys).
-* Implement JOINs to analyze user activity in context.
-* Practice creating **views** and stored procedures for business reporting.
-* Integrate into a Python or Node.js backend to simulate a real app.
-
----
-
-This project can now serve as a **showcase of PostgreSQL skills** for GitHub, blogs, or interviews.
